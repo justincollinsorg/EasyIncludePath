@@ -1,6 +1,9 @@
 # PHP - EZ-Include-Path 
+
 (I developed this in 2017. This was before I learned to use psr-4 autoloader)
-DONT USE FOR REAL WORLD USE. JUST USE AUTOLOADER!
+
+#DONT USE FOR REAL WORLD USE. JUST USE AUTOLOADER!
+
 EZ-Include-Path provides a simple and clean way to use absolute paths with PHP's include construct allowing developers to include files into php scripts without the need for autoloading. However, you should just use psr-4 autoloading.
 
 Not having to use relative paths with the include construct prevents errors and headaches.
